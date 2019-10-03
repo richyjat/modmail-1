@@ -9,15 +9,15 @@
     <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge">
   </a>
   
-  <a href="https://discord.gg/j5e9p8w">
+  <a href="https://discord.gg/pPnWwHd">
     <img src="https://img.shields.io/discord/515071617815019520.svg?style=for-the-badge&colorB=7289DA" alt="Support">
   </a>
   
-  <a href="https://github.com/kyb3r/modmail/">
+  <a href="https://github.com/richyjat/modmail-1/">
     <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">
   </a>
   
-  <a href="https://patreon.com/kyber">
+  <a href="https://www.gxkiller.com">
     <img src="https://img.shields.io/badge/patreon-donate-orange.svg?style=for-the-badge" alt="Python 3.7">
   </a>
   
@@ -32,11 +32,11 @@
 
 <img src="https://i.imgur.com/GGukNDs.png" align="right" height="350">
 
-When a user sends a direct message to the bot, a channel is created within an isolated category. This channel is where messages will be relayed. To reply to the message, simply use the command `?reply` in the channel. A full list of commands can be found in the [wiki](https://github.com/kyb3r/modmail/wiki) or by using the `?help` command.
+When a user sends a direct message to the bot, a channel is created within an isolated category. This channel is where messages will be relayed. To reply to the message, simply use the command `?reply` in the channel. A full list of commands can be found in the [wiki](https://github.com/richyjat/modmail/wiki) or by using the `?help` command.
 
 ## Installation
 
-Currently, the easiest and fastest way to set up the bot is by using Heroku, which is a service that offers a free plan for hosting applications. If you choose to install the bot using Heroku, you will not need to download anything. The [**installation guide**](https://github.com/kyb3r/modmail/wiki/Installation) will guide you through the entire installation process. If you run into any problems, join our [Discord server](https://discord.gg/etJNHCQ) for help and support. Even if you don't have any issues, you should come and check out our awesome Discord community! :wink:
+Currently, the easiest and fastest way to set up the bot is by using Heroku, which is a service that offers a free plan for hosting applications. If you choose to install the bot using Heroku, you will not need to download anything. The [**installation guide**](https://github.com/richyjat/modmail/wiki/Installation) will guide you through the entire installation process. If you run into any problems, join our [Discord server](https://discord.gg/pPnWwHd) for help and support. Even if you don't have any issues, you should come and check out our awesome Discord community! :wink:
 
 Interactive installation: [**https://taaku18.github.io/modmail/installation**](https://taaku18.github.io/modmail/installation)
 
